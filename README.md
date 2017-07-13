@@ -1,0 +1,3 @@
+#HAILO Image Processing Scripts
+---
+HAILO was a project taken on by a team of students in the NASA Space Mission Design course at the College of Charleston in conjunction with engineering students at the University of Alabama Huntsville. The goal of the project was to study infrared light absorption as it relates to water vapor in the atmosphere. For this project a payload consisting of two GoPro cameras, an Arduino, and additional sensors were attached to a high-altitude air balloon and sent into the lower atmosphere. The GoPro cameras captured two images per second during its flight resulting in a large image set. These images needed to be analyzed so serveral scripts were written in Python to automate this process.
